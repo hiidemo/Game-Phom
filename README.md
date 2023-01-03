@@ -5,8 +5,8 @@
 *   [52] **player turn**
 *   [53] **player phase** 
 *   [54] **lá bài rác vừa hạ** 
-*   [55:55+52] **các lá còn lại để hạ **
-*   [55+52:55+52+52] **các lá còn lại  của từng player sau khi hạ **
+*   [55:55+52] **các lá còn lại để hạ**
+*   [55+52:55+52+52] **các lá còn lại  của từng player sau khi hạ**
 
 
 ## :bust_in_silhouette: P_state
