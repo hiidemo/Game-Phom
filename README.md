@@ -22,6 +22,6 @@
 
 
 ## :video_game: Action
-* [0] **action  ăn bài**
-* [1] **action không ăn bài **
+* [0]   **action  ăn bài**
+* [1]     **action không ăn bài **
 * [2:54] **action đánh bài**
