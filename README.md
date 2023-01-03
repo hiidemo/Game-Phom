@@ -29,3 +29,12 @@
 * [0]   **action  ăn bài**
 * [1]     **action không ăn bài**
 * [2:54] **action đánh bài**
+## Quy định lá bài
+   - index_card // 4
+  => quyết định lá bài và điểm của lá bài
+- index_card % 4
+  => quyết định chất
+  ( 0 = Bích , 1 là tép ,2 = rô , 3 = cơ )
+  ( 1 = lá A ,2 = lá 2 , 3 = lá 3 ..., 11 = lá j , 12
+= lá q , 13 = lá k)
+   # Quy định lá bài
