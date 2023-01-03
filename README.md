@@ -2,11 +2,15 @@
 ## :dart: Báo cáo Game Phỏm
 ## :globe_with_meridians: ENV_state
 *   [0:52] **các con bài**
+*   #5,6,7,8 lá bài rác của từng người 
+    #9,10,11,12 lá bài đã ăn  và các lá phỏm đã hạ 
 *   [52] **player turn**
 *   [53] **player phase** 
 *   [54] **lá bài rác vừa hạ** 
 *   [55:55+52] **các lá còn lại để hạ**
 *   [55+52:55+52+52] **các lá còn lại  của từng player sau khi hạ**
+*   #0,1,2,3 các lá còn lại  của từng player 
+
 
 
 ## :bust_in_silhouette: P_state
