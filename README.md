@@ -1,12 +1,12 @@
 # Game-Phỏm
 ## :dart: Báo cáo Game Phỏm
 ## :globe_with_meridians: ENV_state
-*   [0:900] **Map của maze**: 1 là tường, 0 là đường có thể đi
-*   [900:902] **player position**
-*   [902:904] **start position** 
-*   [904:906] **end position** 
-*   [906] **Turn**
-*   [907] **Turn  tối ưu**
+*   [0:52] **các con bài**
+*   [52] **player turn**
+*   [53] **player phase** 
+*   [54] **lá bài rác vừa hạ** 
+*   [55:55+52] **các lá còn lại để hạ **
+*   [55+52:55+52+52] **các lá còn lại  của từng player sau khi hạ **
 
 
 ## :bust_in_silhouette: P_state
