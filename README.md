@@ -1,5 +1,12 @@
 # Game-Phỏm
 ## :dart: Báo cáo Game Phỏm
+1.   `Tốc độ chạy`
+      - **1000000 Game**: 10 phút 
+2. `Chuẩn form`: **Đã test**
+3. `Đúng luật`: **Đã check**
+4. `Không bị loop vô hạn`: **Đã test** với 1000000 ván
+5. `Giá trị state, action:`
+
 ## :globe_with_meridians: ENV_state
 *   [0:52] **các con bài**
 *   #5,6,7,8 lá bài rác của từng người 
