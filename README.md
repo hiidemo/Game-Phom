@@ -29,6 +29,7 @@
 *   [104+52x3:104+526]:   **lá phỏm của 3 người khác**
 *   [416:420]:   **lví trí của bản thân**
 *   [423:423+52+52+52+52]:   **lá bài trên tay  người chơi  khi hạ phỏm**
+* **Note** : tất cả các index đều chỉ có giá trị 1/0
 
 
 
