@@ -6,9 +6,7 @@
 3. `Đúng luật`: **Đã check**
 4. `Không bị loop vô hạn`: **Đã test** với 1000000 ván
 5. `Số ván check_vic > victory_thật`:**Đã test** 100000 ván thì có(thắng thật:17310, check_victory:18643)
-6. `Tốc độ chạy các hàm con mà người chơi dùng`: 1000 game: xs 
-7. `Tối thiểu số lần truyền vào player`:1000 game: 
-8. `Giá trị state, action:`
+6. `Giá trị state, action:`
 
 ## :globe_with_meridians: ENV_state
 *   [0:52] **các con bài**
