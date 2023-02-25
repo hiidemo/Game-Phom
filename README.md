@@ -5,7 +5,7 @@
 2. `Chuẩn form`: **Đã test**
 3. `Đúng luật`: **Đã check**
 4. `Không bị loop vô hạn`: **Đã test** với 1000000 ván
-5. `Số ván check_vic > victory_thật`:**Đã test** 1000000 ván thì có(thắng thật:x, check_victory:x)
+5. `Số ván check_vic > victory_thật`:**Đã test** 1000000 ván thì có(thắng thật:16836, check_victory:18833)
 6. `Tốc độ chạy các hàm con mà người chơi dùng`: 1000 game: xs 
 7. `Tối thiểu số lần truyền vào player`:1000 game: 
 8. `Giá trị state, action:`
@@ -32,6 +32,8 @@
 *   [104+52x3:104+526]:   **lá phỏm của 3 người khác**
 *   [416:420]:   **lví trí của bản thân**
 *   [423:423+52+52+52+52]:   **lá bài trên tay  người chơi  khi hạ phỏm**
+*   [631] Check xem có ù 3 phỏm rồi kết thúc game 
+*   [632] Check cả làng có móm khong
 * **Note** : tất cả các index đều chỉ có giá trị 1/0
 
 
