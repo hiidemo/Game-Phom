@@ -5,7 +5,7 @@
 2. `Chuẩn form`: **Đã test**
 3. `Đúng luật`: **Đã check**
 4. `Không bị loop vô hạn`: **Đã test** với 1000000 ván
-5. `Số ván check_vic > victory_thật`:**Đã test** 100000 ván thì có(thắng thật:17310, check_victory:18643)
+5. `Số ván check_vic > victory_thật`:**Đã test** 10000 ván thì có(thắng thật:1754, check_victory:1798)
 6. `Giá trị state, action:`
 
 ## :globe_with_meridians: ENV_state
