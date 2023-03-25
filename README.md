@@ -30,8 +30,8 @@
 *   [104+52x3:104+526]:   **lá phỏm của 3 người khác**
 *   [416:420]:   **lví trí của bản thân**
 *   [423:423+52+52+52+52]:   **lá bài trên tay  người chơi  khi hạ phỏm**
-*   [631] Check xem có ù 3 phỏm rồi kết thúc game 
-*   [632] Check cả làng có móm khong
+*   [631] Check xem kết thúc game chưa
+*   [632] Check thắng hay thua
 * **Note** : tất cả các index đều chỉ có giá trị 1/0
 
 
