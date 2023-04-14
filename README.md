@@ -22,8 +22,8 @@
 
 
 ## :bust_in_silhouette: Player_state
-*   [0:51] **Lá bài của bản thân**
-*   [52:104]] **Lá bài của người tiếp theo đánh cho mình**
+*   **[0:51]** **Lá bài của bản thân**
+*   [52:104] **Lá bài của người tiếp theo đánh cho mình**
 *   [104:104+52]] **Lá bài rác của người tiếp theo**
 *   [104+52:104+52+52]:   **lá bài rác của 2 người khác và bản thân**
 *   [104+52+52:104+52+52+52]]:   **lá phỏm của bản thân**
