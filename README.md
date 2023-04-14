@@ -37,12 +37,10 @@
 *   (Phase 0 là phase bắt đầu game (luôn bằng 0 )
 *   (Phase 1 là phase lựa chọn bốc bài hay ăn bài đối thủ )
 *   (Phase 2 là phase lựa chọn bài để đánh )
-*   
 *   [423:631]:   **lá bài trên tay  người chơi  khi hạ phỏm**
 *   **Trong đó :**
 *   (423:423+52 là lá bài của bản thân )
 *   ([423+52:423+52+52],[423+52+52:423+52+52+52],[423+52+52+52:631] là lá bài trên tay 3 người tiếp theo lượt) 
-*   
 *   [631] **Kiểm tra xem kết thúc game chưa**
 *   [632] **Kiểm tra người chơi  thắng hay thua**
 * **Note** : tất cả các index đều chỉ có giá trị 1/0
