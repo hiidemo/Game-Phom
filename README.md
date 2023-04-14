@@ -42,7 +42,11 @@
 *   (423:423+52 là lá bài của bản thân )
 *   ([423+52:423+52+52],[423+52+52:423+52+52+52],[423+52+52+52:631] là lá bài trên tay 3 người tiếp theo lượt) 
 *   **[631]** **Kiểm tra xem kết thúc game chưa**
+*   **Trong đó** 
+*   Kết thúc là giá trị 1 còn chưa kết thúc là 0
 *   **[632]** **Kiểm tra người chơi  thắng hay thua**
+*   **Trong đó** 
+*   Thắng là giá trị 1 còn thua là 0
 * **Note** : tất cả các index đều chỉ có giá trị 1/0
 
 
