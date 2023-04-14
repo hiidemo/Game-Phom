@@ -27,7 +27,10 @@
 *   [104:104+52]] **Lá bài rác của người tiếp theo**
 *   [104+52:104+52+52]:   **lá bài rác của 2 người khác và bản thân**
 *   [104+52+52:104+52+52+52]]:   **lá phỏm của bản thân**
-*   [104+52x3:104+526]:   **lá phỏm của 3 người tiếp theo lượt**
+*   [104+52x3:104+52x6]:   **lá phỏm của 3 người tiếp theo lượt**
+*   ([104+52x3:104+52x4],[104+52x4:104+52x5],[104+52x5:104+52x6] là lá bài trên tay 3 người tiếp theo lượt) 
+
+*
 *   [416:420]:   **ví trí của bản thân**
 *   [420:423]:   **Phase**
 *   Trong đó : 
