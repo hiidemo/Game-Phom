@@ -30,14 +30,14 @@
 *   [104+52x3:104+526]:   **lá phỏm của 3 người tiếp theo lượt**
 *   [416:420]:   **ví trí của bản thân**
 *   [420:423]:   **Phase**
-Trong đó : 
+*   Trong đó : 
 *   (Phase 1 là index 420 , Phase 2 là index 421 , Phase 0 là index 422 )
 *   (Phase 0 là phase bắt đầu game (luôn bằng 0 )
 *   (Phase 1 là phase lựa chọn bốc bài hay ăn bài đối thủ )
 *   (Phase 2 là phase lựa chọn bài để đánh )
 *   
 *   [423:631]:   **lá bài trên tay  người chơi  khi hạ phỏm**
-Trong đó : 
+*   Trong đó : 
 *   (423:423+52 là lá bài của bản thân )
 *   ([423+52:423+52+52],[423+52+52:423+52+52+52],[423+52+52+52:631] là lá bài trên tay 3 người tiếp theo lượt) 
 *   
