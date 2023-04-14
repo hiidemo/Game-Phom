@@ -28,7 +28,7 @@
 *   [104+52:104+52+52]:   **lá bài rác của 2 người khác và bản thân**
 *   [104+52+52:104+52+52+52]]:   **lá phỏm của bản thân**
 *   [104+52x3:104+526]:   **lá phỏm của 3 người khác**
-*   [416:420]:   **lví trí của bản thân**
+*   [416:420]:   **ví trí của bản thân**
 *   [423:423+52+52+52+52]:   **lá bài trên tay  người chơi  khi hạ phỏm**
 *   [631] Check xem kết thúc game chưa
 *   [632] Check thắng hay thua
