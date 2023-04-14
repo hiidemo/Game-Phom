@@ -9,7 +9,7 @@
 6. `Giá trị state, action:`
 
 ## :globe_with_meridians: ENV_state
-*   [0:52] **các lá bài **
+*   [0:52] **các lá bài**
 *   #5,6,7,8 lá bài rác của từng người 
     #9,10,11,12 lá bài đã ăn  và các lá phỏm đã hạ 
 *   [52] **player turn**
