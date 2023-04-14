@@ -30,8 +30,6 @@
 *   [104+52x3:104+52x6]:   **lá phỏm của 3 người tiếp theo lượt**
 *   **Trong đó :**
 *   ([104+52x3:104+52x4],[104+52x4:104+52x5],[104+52x5:104+52x6] là lá bài trên tay 3 người tiếp theo lượt) 
-
-*
 *   [416:420]:   **ví trí của bản thân**
 *   [420:423]:   **Phase**
 *   **Trong đó :**
